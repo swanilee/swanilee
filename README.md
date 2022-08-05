@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hello, My name is SeongyeongLee, Master-student in UNSIT
 
 <!--
 **swanilee/swanilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
