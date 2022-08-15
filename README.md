@@ -15,7 +15,7 @@
 - Hand/Human pose estimation, 
 - 3D mesh reconstruction from single RGBs
 - Domain adaptation/generalization
--  [now] Preparing submission for AAAI 2023 
+-  [now] Preparing submission for WACV 2023 
 
 
 ### 💚 Careers
