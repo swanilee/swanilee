@@ -21,7 +21,7 @@
 ### 💚 Careers
 |Type|Date|Contents|Org.|
 |------|---|---|---|
-|Working|22.10~|Vision AI Researcher|NCSOFT, KOREA|
+|🌟 Working|22.10~|Vision AI Researcher|NCSOFT, KOREA|
 |📖Edu(Master)|20.08-22.08|Department of Computer Science, Computer Vision (mainly Hand pose estimation) |Ulsan National Institute of Science and Technology (UNIST)|
 |Edu(Bachelor)|17.03-20.02|Department of Computer Engineering|Pukyong National University|
 |Edu(Bachelor)|14.03-16.02|Department of Chinese Language and Literature |Dongguk University|
