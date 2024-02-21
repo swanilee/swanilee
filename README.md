@@ -12,10 +12,11 @@
 
 ### 💙 Research Interest 
 - Computer vision ✨
+- Neural rendering
 - Hand/Human pose estimation, 
 - 3D mesh reconstruction from single RGBs
 - Domain adaptation/generalization
-- Submission for WACV 2023 (under review)
+
 
 
 ### 💚 Careers
