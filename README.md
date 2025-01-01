@@ -42,7 +42,7 @@
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [LinkedIn]: <https://www.linkedin.com/in/seongyeong-lee-b99914183/>
-   [here]: <https://www.notion.so/Seongyeong-s-portfolio-c67706d58fba4a219ce4cb317b7c1a02>
+   [here]: <[https://www.notion.so/Seongyeong-s-portfolio-c67706d58fba4a219ce4cb317b7c1a02](https://www.notion.so/2025-Seongyeong-portfolio-16ecd82f82e180f683efcc1a2190a7e2?pvs=4)>
    [markdown-it]: <https://github.com/markdown-it/markdown-it>
    [Ace Editor]: <http://ace.ajax.org>
    [node.js]: <http://nodejs.org>
