@@ -5,7 +5,6 @@
 👋 Hello, My name is Seongyeong Lee, AI Researcher in NCSOFT.
    Please see [here] for specific details
 
-> “I want to be a researcher who thinks I can ask good questions well”, this is the idea I came up with while watching my senior doctoral researcher during my internship. I was not sure about going to graduate school, so these thoughts led to my decision to enter graduate school, and now I am about to graduate from the graduate school master's program. 
 > Wherever I am, in the end, I want to grow step by step from where I am now. I am trying to become a researcher who can listen, learn, and ask good questions based on that.
 
 
