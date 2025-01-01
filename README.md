@@ -2,7 +2,7 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswanilee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-👋 Hello, My name is Seongyeong Lee, Master-student in UNIST.
+👋 Hello, My name is Seongyeong Lee, AI Researcher in NCSOFT.
    Please see [here] for specific details
 
 > “I want to be a researcher who thinks I can ask good questions well”, this is the idea I came up with while watching my senior doctoral researcher during my internship. I was not sure about going to graduate school, so these thoughts led to my decision to enter graduate school, and now I am about to graduate from the graduate school master's program. 
